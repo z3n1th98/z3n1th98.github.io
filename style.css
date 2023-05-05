@@ -3,7 +3,7 @@ html {
   }
 body {
   color: #cdd6f4;
-  margin: 0 auto;
+  margin: 25px auto;
   font-family: 'Open Sans', sans-serif;
   max-width: 36em;
   padding-left: 50px;
@@ -105,10 +105,6 @@ footer {
 
 /* mobile support */
 @media only screen and (max-width: 768px) {
-  body {
-	margin-left: 20px;
-	margin-right: 20px;
-  }
   h1 {
 	font-size: 19pt;
   }
