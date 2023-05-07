@@ -16,6 +16,12 @@ body {
   background-color: #181825;
   border-radius: 25px;
   }
+.top-section {
+  text-align: center;
+}
+.top-section img {
+  border-radius: 25px;
+}
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.4em;
   }
@@ -92,12 +98,6 @@ blockquote {
   margin: 1em 0 1em 1.7em;
   padding-left: 1em;
   }
-div {
-  text-align: center;
-}
-div img {
-  border-radius: 25px;
-}
 footer {
   text-align: center;
   padding: 1.4em;
